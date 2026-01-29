@@ -1,2 +1,3 @@
-# final_prOject_alprog
-final ptoject code
+# Diary notes for final project 1st semester
+this file use python language
+
